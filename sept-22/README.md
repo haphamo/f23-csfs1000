@@ -1,6 +1,7 @@
 # Lab Sept 22
 
-This is the index.html
+This is the `index.html`
+
 <img src="https://raw.githubusercontent.com/haphamo/f23-csfs1000/main/sept-22/assets/preview.png" width="500" />
 
 Useful links
