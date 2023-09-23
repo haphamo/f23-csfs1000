@@ -1,0 +1,62 @@
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
+button, a {
+  background-color: #333;
+  padding: 10px 31px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  letter-spacing: 3px;
+  text-decoration: unset;
+}
+
+div#main {
+  display: flex;
+  flex-direction: row;
+}
+
+div#left {
+  align-self: center;
+}
+
+body {
+  margin-top: 50px;
+}
+
+.section {
+  margin: 0 10px;
+  width:210px;
+  display: flex;
+  padding: 16px 34px;
+  align-items: center;
+  background-color: #f1c2b0;
+  border-radius: 16px;
+
+  flex-direction: column;
+  align-items: start;
+}
+
+.section > div > p:first-child {
+   color:white;
+   font-size: 64px;
+   margin: 0;
+}
+h2 {
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+#top {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#content {
+  display: flex;
+  margin-top:30px;
+}
